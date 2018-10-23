@@ -1,0 +1,5 @@
+Annotations in `annotations/final_annotation_intermediary_format.csv` have been
+created using Mechanical Turk.
+
+They are licensed under CC-BY-4.0: 
+https://creativecommons.org/licenses/by/4.0/
