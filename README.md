@@ -4,16 +4,19 @@ Code and data for the EMNLP 2018 paper "Weeding out Conventionalized Metaphors: 
 
 Please use the following citation:
 ```
-@InProceedings{dodinh:2018:emnlp,
-  author    = {Do Dinh, Erik-Lân and Wieland, Hannah and Gurevych, Iryna},
-  title     = {Weeding out Conventionalized Metaphors: A Corpus of Novel Metaphor Annotations},
-  booktitle = {Proceedings of the 2018 Conference on Empirical Methods },
-  month     = nov,
-  year      = {2018},
-  address   = {Brussels, Belgium},
-  publisher = {Association for Computational Linguistics},
-  pages     = {to appear},
-  url       = {to appear}
+@inproceedings{do-dinh-etal-2018-weeding,
+   title = "Weeding out Conventionalized Metaphors: A Corpus of Novel Metaphor Annotations",
+   author = "Do Dinh, Erik-L{\^a}n  and
+     Wieland, Hannah  and
+     Gurevych, Iryna",
+   booktitle = "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+   month = oct # "-" # nov,
+   year = "2018",
+   address = "Brussels, Belgium",
+   publisher = "Association for Computational Linguistics",
+   url = "https://aclanthology.org/D18-1171",
+   doi = "10.18653/v1/D18-1171",
+   pages = "1412--1424",
 }
 ```
 
